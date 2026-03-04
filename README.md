@@ -1,4 +1,4 @@
-# mikute
+# mituke
 VC での会話をテキスト化して、Discord に送る Discord bot
 
 
